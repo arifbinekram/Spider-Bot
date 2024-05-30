@@ -1,6 +1,4 @@
-Sure, here's a sample `README.md` file for your GitHub project:
 
-```markdown
 # Spider-Bot
 
 Spider-Bot is a web crawler designed to collect and process URLs from a given website. It scans the provided URL, collects all hyperlinks on the page, follows these links, and extracts further URLs. This project can be useful for web scraping, data collection, and analysis purposes.
